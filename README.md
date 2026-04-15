@@ -61,3 +61,6 @@ Um erro comum é inserir dados diretamente no `onCreate` da `MainActivity`.
 
 ---
 
+<img width="454" height="935" alt="Captura de ecrã 2026-04-15 105907" src="https://github.com/user-attachments/assets/b1bd6903-9b79-4eee-849d-fe8387398d5a" />
+<img width="450" height="932" alt="Captura de ecrã 2026-04-15 105847" src="https://github.com/user-attachments/assets/1601e3ac-a942-44e3-bfa1-61153d3d2d93" />
+
